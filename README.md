@@ -81,8 +81,7 @@ Pollster is a simple Django-based web application that allows users to create an
 
 ## Author
 **Dhiraj Bandi**  
-Email: dhirajbandi2000@gmail.com  
-GitHub: [your-github-profile]
+Email: dhirajbandi2000@gmail.com 
 
 ---
 This project was developed as part of research and is open for improvements.
